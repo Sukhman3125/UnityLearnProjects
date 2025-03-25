@@ -1,0 +1,13 @@
+# Ignore Unity auto-generated folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+
+# Ignore Visual Studio/JetBrains Rider files
+*.csproj
+*.sln
+*.user
